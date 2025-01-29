@@ -1,0 +1,6 @@
+Sumrina|2|56
+Sayan|5|85
+Anu|23|90
+Sohom|3|80
+
+

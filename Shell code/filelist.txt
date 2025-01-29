@@ -1,0 +1,29 @@
+Armstrong.sh
+Assignment
+C Code
+a.out
+com_evenodd.c
+dining.c
+fib.sh
+fibonacci_output.txt
+file_1.txt
+file_2.txt
+filedir.sh
+filelist.txt
+leap.sh
+line_count.sh
+palindrome.sh
+pipe_alpha.c
+pipe_fib.c
+pipe_prime.c
+pipe_vowel.c
+process.c
+process_tree.c
+prod_cons.c
+reader.c
+series_1.sh
+thread_add.c
+thread_matadd.c
+thread_symmat.c
+ 
+Total files : 28
